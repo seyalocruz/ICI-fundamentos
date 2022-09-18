@@ -10,6 +10,6 @@ se tiene que ussar el simobolo de proceso correspondiente para imprimir la caden
 |----------|---------|
 | "sergio" | sergio  |
 ### 1.4 entrada de datos
-o hay, la variavle ya esta implicita
+no hay, la variable ya esta implicita
 ### 1.5 salida de datos
 sergio
