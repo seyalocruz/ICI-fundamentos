@@ -1,4 +1,4 @@
-# ejercisio 3 escribir un DFD que imprima un valor definido
+# ejercicio 3 escribir un DFD que imprima un valor definido
 ## 3.1 analisis
 escibe un DFD que esciba como valor definido un nombre
 ### 3.2
