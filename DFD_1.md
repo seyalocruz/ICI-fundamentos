@@ -2,7 +2,7 @@
 ## **PROBLEMAS RESUELTOS EN CLASE CON DFD**
 ### **EJERCISCIO 1. ESCRIBE UN DFD QUE ESCRIBA TU NOMBRE**
 #### 1.1 analisis
-se tiene que ussar el simobolo de proceso correspondiente para imprimir la cadena de caracteres
+se tiene que usar el simobolo de proceso correspondiente para imprimir la cadena de caracteres
 ### 1.2 diagrama de flujo de datos
 ![alt](https://github.com/seyalocruz/ICI-fundamentos/blob/main/2022-09-17%20(5).png)
 #### 1.3 prueba de escritoriio
