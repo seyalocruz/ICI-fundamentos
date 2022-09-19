@@ -1,4 +1,4 @@
-# ejercisio 4 escribe un DFD que imprima un valor capturado
+# ejercicio 4 escribe un DFD que imprima un valor capturado
 ## 4.1 analisis
 escribe un DFD que capture un nombre y lo imprima
 ### 4.2 diagrama de flujo de datos
