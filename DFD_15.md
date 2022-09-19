@@ -2,7 +2,7 @@
 ## 15.1 analisis
 escibe un DFD que capture n y imprima si es par o impar
 ### 15.2 diagrama de flujo de datos
-![alt](https://github.com/seyalocruz/ICI-fundamentos/blob/main/15.png)
+![2022-09-18 (5)](https://user-images.githubusercontent.com/113708865/190949055-274509b4-9600-4ddb-a879-7f97a94e17aa.png)
 ### 15.3 prueba de escritorio
 |numero|par|impar|
 |---------|----|--------|
