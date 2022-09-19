@@ -1,6 +1,6 @@
-# ejercisio 6
+# ejercicio 6
 ## 6.1 analisis
-
+escibe un DFD imprima el cuadado de 5
 ### 6.2 diagrama de flujo de datos
 ![alt](https://github.com/seyalocruz/ICI-fundamentos/blob/main/6.png)
 ### 6.3 prueba de escitorio
