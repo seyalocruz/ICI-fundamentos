@@ -1,6 +1,6 @@
 # ejercicio 9
 ## 9.1 analisis
-
+ecibe un DFD que te capture tu año de nacimiento y año actuañ e imprima tu edad
 ### 9.2 diagrama de flujo de datos
 ![alt](https://github.com/seyalocruz/ICI-fundamentos/blob/main/9.png)
 ### 9.3 prueba de escitorio
