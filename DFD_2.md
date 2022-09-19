@@ -1,5 +1,5 @@
 # problemas resueltos en clase con diagramas de flujos
-## ejercisio 2. imprimir el dia de hoy
+## ejercicio 2. imprimir el dia de hoy
 ### 2.1 analisis
 escribir un DFD que escriba el dia de hoy
 #### 2.2 diagrama de flujo de datos
